@@ -18,5 +18,7 @@ Seuraavaksi yleensä [liitytään testiympäristöön](testiymparisto.md).
 
 Edellytys tuontantoympäristöön liittymiselle on allekirjoitettu [MPASSid luottamusverkoston sopimus](https://mpass.fi/sopimus/). Oman organisaatiosi päättävä taho on sen todennäköisesti allekirjoittanut, mutta asia kannattaa varmistaa. [MPASSid jäsenet](https://mpass.fi/jasenet/) sivulta voit katsoa onko organisaationne allekirjoittanut jo sopimuksen. 
 
- # Koulutuksen järjestäjät - käyttöönoton dokumentaatio
+-----------------------
+
+# Koulutuksen järjestäjät - käyttöönoton dokumentaatio
 
