@@ -9,7 +9,7 @@ Kannattaa aloittaa MPASSid ![arkkitehtuuriin](https://github.com/mpassid/docs/bl
 ## Liity testiympäristöön
 
 Ennen tätä vaihetta yrityksenne yhteyshenkilö on ilmoittanut MPASSid operaattorille teknisen yhteyshenkilön yhteystiedot.
-Seuraavaksi yleensä liitytään ![testiympäristöön](https://github.com/mpassid/docs/blob/master/testiymparisto.md). 
+Seuraavaksi yleensä ![liitytään testiympäristöön](https://github.com/mpassid/docs/blob/master/testiymparisto.md). 
 
 ## Yrityksenne tuotteen lisääminen demoympäristöön
 
