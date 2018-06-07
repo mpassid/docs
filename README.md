@@ -16,6 +16,6 @@ Seuraavaksi yleensä liitytään ![testiympäristöön](https://github.com/mpass
 
 ## Tuotantoympäristöön siirtyminen
 
-
+Edellytys tuontantoympäristöön liittymiselle on allekirjoitettu ![MPASSid luottamusverkoston sopimus](https://mpass.fi/sopimus/). Oman organisaatiosi päättävä taho on sen todennäköisesti allekirjoittanut, mutta asia kannattaa varmistaa. 
 
  
