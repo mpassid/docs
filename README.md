@@ -4,7 +4,9 @@ MPASSid dokumentaatio sisältäen kuvauksen arkkitehtuurista ja ohjeet käyttö�
 
 ## Arkkitehtuuri
 
-## Liittäminen testiympäristöön
+## Liity testiympäristöön
+
+Seuraavaksi yleensä liitytään ![testiympäristöön](https://github.com/mpassid/docs/blob/master/testiymparisto.md). 
 
 
  
