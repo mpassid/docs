@@ -1,4 +1,4 @@
-# Palveluntarjoajat: käyttöönoton dokumentaatio
+# Palveluntarjoajat - käyttöönoton dokumentaatio
 
 MPASSid dokumentaatio sisältäen kuvauksen arkkitehtuurista ja ohjeet käyttöönottoon. Alla on tyypillinen polku, jota MPASSid käyttöönotto kulkee. 
 
@@ -18,5 +18,5 @@ Seuraavaksi yleensä liitytään ![testiympäristöön](https://github.com/mpass
 
 Edellytys tuontantoympäristöön liittymiselle on allekirjoitettu ![MPASSid luottamusverkoston sopimus](https://mpass.fi/sopimus/). Oman organisaatiosi päättävä taho on sen todennäköisesti allekirjoittanut, mutta asia kannattaa varmistaa. ![MPASSid jäsenet](https://mpass.fi/jasenet/) sivulta voit katsoa onko organisaationne allekirjoittanut jo sopimuksen. 
 
- # Koulutuksen järjestäjät: käyttöönoton dokumentaatio
+ # Koulutuksen järjestäjät - käyttöönoton dokumentaatio
 
