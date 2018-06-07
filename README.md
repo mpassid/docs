@@ -4,7 +4,7 @@ MPASSid dokumentaatio sisältäen kuvauksen arkkitehtuurista ja ohjeet käyttö�
 
 ## Tutustu arkkitehtuuriin
 
-Kannattaa aloittaa MPASSid arkkitehtuuriin perehtymisellä. 
+Kannattaa aloittaa MPASSid ![arkkitehtuuriin](https://github.com/mpassid/docs/blob/master/arkkitehtuuri.md) perehtymisellä.
 
 ## Liity testiympäristöön
 
