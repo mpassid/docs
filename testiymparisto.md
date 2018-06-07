@@ -113,9 +113,10 @@ MPASSid proxy ei luota  sovellukseen ennen kun sen metadata on asetettu paikoill
 Metadata on julkista tietoa ja se on saatavissa URL:n https://vm1426.kaj.pouta.csc.fi/Shibboleth.sso/Metadata kautta.
 
 Kun olette valmiit liittymään MPASSid lähettäkää postia tuki@mpass.fi osoitteeseen. Liittäkää sähköpostiin
-Teknisen ja hallinnollisen henkilön yhteystiedot
-Lyhyt kuvaus palvelusta
-Yllä kuvattu URL josta ylläpito voi hakea palvelunne metadatan
+
+* Teknisen ja hallinnollisen henkilön yhteystiedot
+* Lyhyt kuvaus palvelusta
+* Yllä kuvattu URL josta ylläpito voi hakea palvelunne metadatan
 
 Tervetuloa MPASS:iin !
 
