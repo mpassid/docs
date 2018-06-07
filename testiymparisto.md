@@ -13,7 +13,11 @@ Asenna Shibboleth SP seuraavalla komennolla.
 
 ```
 apt-get install shibboleth-sp2-common libapache2-mod-shib2 apache2 shibboleth-sp2-utils
+```
+
 Seuraavaksi luodaan metadata ja tehdään shibbolethin peruskonfiguraatio. Metadatan avulla MPASSid proxy tunnistaa palvelun.
+
+```
 cd /etc/shibboleth 
 shib-keygen
 shib-metagen -2 -a FirsrName/LastName/admin.email@comppany.com -e https://vm1426.kaj.pouta.csc.fi/sptest -h vm1426.kaj.pouta.csc.fi > sptest-metadata.xml
