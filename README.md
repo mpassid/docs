@@ -1,8 +1,8 @@
 # Dokumentaatio
 
-MPASSid dokumentaatio sisältäen kuvauksen arkkitehtuurista ja ohjeet käyttöönottoon. 
+MPASSid dokumentaatio sisältäen kuvauksen arkkitehtuurista ja ohjeet käyttöönottoon. Alla on tyypillinen polku, jota MPASSid käyttöönotto kulkee. 
 
-## Arkkitehtuuri
+## Tutustu arkkitehtuuriin
 
 Kannattaa aloittaa MPASSid arkkitehtuuriin perehtymisellä. 
 
