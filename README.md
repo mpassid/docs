@@ -2,6 +2,10 @@
 
 MPASSid dokumentaatio sisältäen kuvauksen arkkitehtuurista ja ohjeet käyttöönottoon. Alla on tyypillinen polku, jota MPASSid käyttöönotto kulkee. 
 
+## Ennen tätä tapahtunut
+
+Ennen teknisen osuuden alkamista organisaationne päättävät tahot ovat jo tutustuneet palveluun ja tehneet päätöksen edetä. Siinä vaiheessa he ovat ottaneet yhteyttä MPASSid operaattoriin ja rekisteröineet organisaationne MPASSid luottamusverkostoon, mutta ilman sopimusta. Sopimus tarvitaan vasta siinä vaiheessa kun organisaation palvelun kytketään kiinni MPASSid tuotantoympäristöön. 
+
 ## Tutustu arkkitehtuuriin
 
 Kannattaa aloittaa MPASSid [arkkitehtuuriin](arkkitehtuuri.md) perehtymisellä.
