@@ -4,7 +4,7 @@ MPASSid dokumentaatio sisältäen kuvauksen arkkitehtuurista ja ohjeet käyttö�
 
 ## Ennen tätä tapahtunut
 
-Ennen teknisen osuuden alkamista organisaationne päättävät tahot ovat jo tutustuneet palveluun ja tehneet päätöksen edetä. Siinä vaiheessa he ovat ottaneet yhteyttä MPASSid operaattoriin ja rekisteröineet organisaationne MPASSid luottamusverkostoon, mutta ilman sopimusta. Sopimus tarvitaan vasta siinä vaiheessa kun organisaation palvelun kytketään kiinni MPASSid tuotantoympäristöön. 
+Ennen teknisen osuuden alkamista organisaationne päättävät tahot ovat jo tutustuneet palveluun ja tehneet päätöksen edetä. Siinä vaiheessa he ovat ottaneet yhteyttä MPASSid operaattoriin ja rekisteröineet organisaationne MPASSid luottamusverkostoon, mutta ilman [sopimusta](https://mpass.fi/sopimus/). Sopimus tarvitaan vasta siinä vaiheessa kun organisaation palvelu kytketään kiinni MPASSid tuotantoympäristöön. 
 
 ## Tutustu arkkitehtuuriin
 
