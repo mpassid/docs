@@ -1,3 +1,8 @@
+
+
+Dokumentaatio siiretty: https://wiki.eduuni.fi/display/CSCMPAS/
+
+
 # Palveluntarjoajat - käyttöönoton dokumentaatio
 
 MPASSid dokumentaatio sisältäen kuvauksen arkkitehtuurista ja ohjeet käyttöönottoon. Alla on tyypillinen polku, jota MPASSid käyttöönotto kulkee. 
