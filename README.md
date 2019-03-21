@@ -1,8 +1,8 @@
 
 ```diff
 - Huom!
-```
 Dokumentaatio siiretty: https://wiki.eduuni.fi/display/CSCMPAS/
+```
 
 
 # Palveluntarjoajat - käyttöönoton dokumentaatio
